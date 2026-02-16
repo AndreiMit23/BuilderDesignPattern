@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\andre\OneDrive - Gheorghe Asachi Technical University of Iasi\Desktop\ProiectBDP\src\BDP\.metadata\.plugins\org.eclipse.jdt.core
